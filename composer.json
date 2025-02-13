@@ -1,0 +1,16 @@
+{
+    "name": "brzhkv/otus-php-composer-2501",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Brzhkv\\OtusPhpComposer2501\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Petr Berezhkov",
+            "email": "petr.berezhkov@gmail.com"
+        }
+    ],
+    "require": {}
+}
