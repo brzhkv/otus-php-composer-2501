@@ -12,5 +12,7 @@
             "email": "petr.berezhkov@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^8.4"
+    }
 }
